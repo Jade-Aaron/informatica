@@ -1,0 +1,52 @@
+
+body{
+    front-family:arial,sans-serif;
+    background-color:violet;
+    color:brown;
+}
+
+header{
+    background-color: rgb(229, 172, 236);
+    color:darkorchid;
+    padding:20px;
+    text-align: center;
+}
+
+nav{
+    background-color: darksalmon;
+    padding: 5%;
+}
+
+nav ul{
+    list-style-type: none;
+    margin:0;
+    text-align: center;
+
+}
+nav ul li{
+    display:inline;
+    margin:0 10px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:deeppink;
+    font-weight: bold;
+}
+
+main{
+    padding:10px;
+}
+h1, h2{
+    color:rgb(229, 172, 236);
+}
+
+strong{
+    color:rgb(229, 172, 236);
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
